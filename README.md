@@ -10,3 +10,7 @@ The server folder contains the back end, which is built with Node and Express, a
 
 A video preview of intended functionality is shown below:
 
+
+
+https://user-images.githubusercontent.com/77031622/131266337-78757a2e-777d-42d5-8d15-3ae46eca197f.mov
+
